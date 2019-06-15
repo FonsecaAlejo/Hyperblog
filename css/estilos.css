@@ -1,6 +1,19 @@
 body{
-    background-color: chartreuse;
     font-family:Helvetica;
-    color: white;
     text-align: center;
 }
+.header{
+    background-color: rgb(151, 247, 55);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header h1{
+    color:black
+}
+.terminos a{
+    color: white;
+    text-decoration: none;
+}
+
+
