@@ -15,5 +15,9 @@ body{
     color: white;
     text-decoration: none;
 }
-
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
 
